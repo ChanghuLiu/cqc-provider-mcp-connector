@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cqc-provider-mcp": {
+      "type": "http",
+      "url": "https://cqc.regevidencehub.com/mcp"
+    }
+  }
+}
