@@ -1,0 +1,10 @@
+{
+  "name": "cqc-provider-mcp-connector",
+  "version": "1.0.0",
+  "description": "Evidence-linked CQC registration and regulatory preflight decisions for England.",
+  "mcpServers": {
+    "cqc-provider-mcp": {
+      "httpUrl": "https://cqc.regevidencehub.com/mcp"
+    }
+  }
+}
