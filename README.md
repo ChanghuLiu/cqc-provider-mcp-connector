@@ -20,6 +20,14 @@ Use the remote MCP endpoint above, or import the included `.mcp.json` in clients
 
 Agent-native paid MCP actions use x402 where payment is required. Human-facing premium checkout remains available separately through RegEvidenceHub.
 
+## Verified marketplace listing
+
+PayAPI Market has independently settled and verified a paid execution of the commercial CQC route:
+
+https://payapi.market/api/regevidencehub-cqc
+
+Agents can also discover paid APIs through the PayAPI MCP directory at https://payapi.market/mcp.
+
 ## Publisher
 
 RegEvidenceHub — https://www.regevidencehub.com/
